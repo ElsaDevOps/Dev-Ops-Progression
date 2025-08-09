@@ -10,5 +10,5 @@ cat < readme
 
 
 Skills used:
-Logging into an SSH instance and also using a non default port
-Using the cat command with the less than symbol to redirect text into the terminal
+Logging into an SSH instance and also using a non default port.
+Using the cat command with the less than symbol to redirect text into the terminal.
