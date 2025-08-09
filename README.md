@@ -6,7 +6,7 @@ Welcome! Use the links below to explore each category.
 
 ## 📂 Folders
 
-- [📝 Folder 1 — Linux](Linux)
+- [📝 Folder 1 — Linux](LinuxProg)
 
 
 
