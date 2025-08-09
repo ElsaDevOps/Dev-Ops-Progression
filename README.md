@@ -1,10 +1,10 @@
-# ⚙️Dev-Ops-Progression
+ ⚙️Dev-Ops-Progression
 
 Welcome! Use the links below to explore each category.
 
 ---
 
-## 📂 Folders
+ 📂 Folders
 
 - [📝 Folder 1 — Linux](LinuxProg)
 
@@ -12,7 +12,7 @@ Welcome! Use the links below to explore each category.
 
 ---
 
-## 📌 About This Repository
+ 📌 About This Repository
 A repository of all my DevOps learning and progression.
 I plan to learn about and cover many topics in this repository.
 This will contribute to my journey in becoming a fully fledged DevOps engineer.
