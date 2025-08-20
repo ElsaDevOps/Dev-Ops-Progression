@@ -10,8 +10,10 @@ Solution:
 
 openssl s_client -connect localhost:31790 -quiet
 
-make a private key by copying the RSA file into a new file, and change the file permissons using chmod 400
+make a private key by copying the RSA file into a new file, and change the file permissons using chmod 400,
 then use ssh -i bandit17.key bandit17@bandit.labs.overthewire.org -p 2220
+
+
 What I learned:
 
 This was another tricky level, had to use the -quiet option to ignore the request for a key update.
