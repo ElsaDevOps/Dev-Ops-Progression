@@ -3,11 +3,11 @@
 
 file_sorter(){
     local dir="$1"
-if [ -e "$dir" ]; then
+if [ -d "$dir" ]; then
     echo "Files sorted!:"
     cd $dir
     ls -lShr 
-elif [ ! -e "$dir" ]; then
+elif [ ! -d "$dir" ]; then
    echo "No directory provided."
 fi
 }
