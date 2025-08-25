@@ -11,6 +11,6 @@ cat readme
 
 What I learned:
 
-How to use the -t option to force a connection to the tty
+How to use the -t option to force a connection to the terminal via tty.
 
 Using /bin/sh to launch the bash shell instead of the usual bandit18 shell which kept logging me out.
