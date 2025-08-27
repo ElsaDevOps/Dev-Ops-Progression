@@ -8,7 +8,7 @@ Welcome! Use the links below to explore each category.
 
 - [📝 Folder 1 — Linux](LinuxProg)
 
-- [📝 Folder 2 - Bash Scripting](BashScripting)
+- [📝 Folder 2 - Bash Scripting](Bash-Scripting)
 
 
 
