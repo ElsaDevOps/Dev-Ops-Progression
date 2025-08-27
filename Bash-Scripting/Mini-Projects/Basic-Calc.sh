@@ -43,3 +43,5 @@ if [[  $num1 -eq 0 || $num2 -eq 0 ]]; then
 
 }
 Basic_Calc
+
+#This is a calculator, which takes an input of two numbers and performs addition, subreaction, multiplication and division with them.
