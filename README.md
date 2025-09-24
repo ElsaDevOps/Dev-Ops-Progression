@@ -10,6 +10,8 @@ Welcome! Use the links below to explore each category.
 
 - [📝 Folder 2 - Bash Scripting](Bash-Scripting)
 
+- [📝 Folder 3 - Networking](Networking)
+
 
 
 ---
