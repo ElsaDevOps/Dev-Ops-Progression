@@ -1,16 +1,16 @@
 ****
-==What is a Computer Network?==
+# What is a Computer Network?
 A Computer Network connects devices to share information and resources.
 Examples include smaller network, such as a LAN (Local Area Network), like your home Wi-Fi and larger networks such as a WAN (Wide Area Network), like the Internet.
 
-==Switches, Routers and Firewalls==
+**Switches, Routers and Firewalls**
 - **Switches** are like managers for your local network. They manage the data flow within a LAN and connect devices within a network.
 - **Routers** direct traffic between different networks and connect different networks too.
 - **Firewalls** Protect networks from unauthorised access and ensure that only safe data passes through
 
 These components form the backbone of any network.
 
- ## ==**IP addressing 
+ ## IP addressing 
 
 - Stands for Internet Protocol address
 - Is a unique identifier assigned to each device on a network
@@ -20,13 +20,13 @@ These components form the backbone of any network.
 - **IPv4**: 32-bit numbers written in decimal format, consists of four groups of numbers separated by dots. Groups range from 0-256, makes around 4.3 billion unique addresses
 - **IPv6**: 128-bit, written in hexadecimal, almost unlimited addresses (340 undecillion)
 
-==**MAC Addressing==
+**MAC Addressing**
 
 - A 48 bit hexadecimal address that operates on the data link layer.
 - A unique identifier assigned to network interfaces like your phone or laptop
 - Essential for network security and communication
 
-==**Ports and Protocols: TCP, UDP
+**Ports and Protocols: TCP, UDP**
 
 - **Port**: a logical endpoint for communication, where data enters and exits a device
 - Different applications/services have their own dedicated ports to make it easier to manage traffic
