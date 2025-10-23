@@ -35,7 +35,7 @@ These components form the backbone of any network.
 
 Two main protocols:
 - **TCP**: Transmission Control Protocol. Connection-oriented, requires "handshake", reliable. Used in email/file transfer/web-browsing
-- **UCP**: User Datagram Protocol. Connectionless, faster but less reliable due to no connection establishment. Used for video streaming/gaming/DNS enquiries
+- **UDP**: User Datagram Protocol. Connectionless, faster but less reliable due to no connection establishment. Used for video streaming/gaming/DNS enquiries
 
 
 ## **OSI Model**
